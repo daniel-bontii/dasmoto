@@ -1,0 +1,44 @@
+
+body {
+    padding: 0px;
+}
+.mediumspringgreen {
+    background-color: mediumspringgreen;
+}
+.lightcoral {
+    background-color: lightcoral;
+}
+.skyblue {
+    background-color: skyblue;
+}
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+section header {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+header h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background: url('images/pattern.jpeg')
+}
+.left-align {
+    text-align: left;
+}
+figure {
+    margin-left: 5px;
+}
+h1, 
+h2, 
+h3, 
+p {
+  font-family: "Helvetica", sans-serif;
+}
